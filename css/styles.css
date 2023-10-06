@@ -10800,7 +10800,8 @@ header.masthead .post-heading .meta a {
 #sobe {
   position: fixed;
   bottom: 0.5%; 
-  
-float: left;
+  display: flex;
+  margin-left: 95% ;
+  float: right;
   transition: opacity 0.3s;
 }
